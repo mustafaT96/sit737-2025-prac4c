@@ -1,0 +1,24 @@
+{"level":"info","message":"Addition requested: 10 + 5 = 15","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Both num1 and num2 should be numbers.","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction requested: 10 - 5 = 5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Both num1 and num2 should be numbers.","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication requested: 10 * 5 = 50","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Both num1 and num2 should be numbers.","service":"calculator-microservice"}
+{"level":"info","message":"Division requested: 10 / 5 = 2","service":"calculator-microservice"}
+{"level":"error","message":"Error: Division by zero is not allowed.","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input: Both num1 and num2 should be numbers.","service":"calculator-microservice"}
+{"level":"info","message":"Division requested: 10 / 5 = 2","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2^3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2^3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2^3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2^0 = 1","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 2^3 = 8","service":"calculator-microservice"}
+{"level":"info","message":"Exponentiation: 0^3 = 0","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for exponentiation","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for exponentiation","service":"calculator-microservice"}
+{"level":"info","message":"Square Root: √16 = 4","service":"calculator-microservice"}
+{"level":"info","message":"Square Root: √10 = 3.1622776601683795","service":"calculator-microservice"}
+{"level":"info","message":"Square Root: √0 = 0","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for square root","service":"calculator-microservice"}
+{"level":"info","message":"Modulo: 10 % 3 = 1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for modulo operation","service":"calculator-microservice"}
